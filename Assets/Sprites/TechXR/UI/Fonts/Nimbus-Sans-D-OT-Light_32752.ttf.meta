@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 2d5ac804028524437887fddfdff0feca
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Nimbus Sans D OT
+  fontNames:
+  - Nimbus Sans D OT
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: c1c5e6c37acd04e38b183eab39d30ae0, type: 3}
+  - {fileID: 12800000, guid: f8bf42d38c4204eaea067ba916b0faee, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
